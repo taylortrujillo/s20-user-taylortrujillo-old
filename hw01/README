@@ -1,0 +1,41 @@
+The purpose of this assignment is to ensure that you are able to use
+Git and Scala.
+
+Instructions
+============
+
+1. Clone this repo.
+
+2. Create a new repo for your homeworks in the course organization.
+   Name your repo `TYY-user-USERNAME`, where,
+   - `T` is one charcter for the term: `f` Fall or `s` for Spring,
+   - `YY` is the two digit year, e.g. `19` for 2019,
+   - `USERNAME` is your github username.
+
+3. Change the remote for your cloned repo to your newly created user
+   repo.
+
+4. Write your name and Mines CWID in the AUTHORS file.
+
+5. Edit the `.gitignore` file to ignore JVM class files and any
+   temporary or backup files that your editor may generate.
+
+6. Under the `hw01` directory in the repo, implement the "Hello World"
+   Scala program covered in lecture.
+
+7. Push all above changes to your user repo in the github.com course
+   organization.
+
+8. Submit via Canvas a screenshot showing the compilation and
+   execution of your "Hello World" program.
+
+Grading
+=======
+
+| Item                          | Points |
+|-------------------------------|--------|
+| Correctly-named User Repo     | 5      |
+| AUTHORS file                  | 5      |
+| .gitignore / no cruft in repo | 5      |
+| "Hello World" code            | 5      |
+| Screenshot                    | 5      |
