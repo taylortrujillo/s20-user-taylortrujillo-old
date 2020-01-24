@@ -6,8 +6,8 @@ Instructions
 
 1. Clone this repo.
 
-2. Create a new repo for your homeworks in the course organization.
-   Name your repo `TYY-user-USERNAME`, where,
+2. Create a new, private repo for your homeworks in the course
+   organization.  Name your repo `TYY-user-USERNAME`, where,
    - `T` is one charcter for the term: `f` Fall or `s` for Spring,
    - `YY` is the two digit year, e.g. `19` for 2019,
    - `USERNAME` is your github username.
